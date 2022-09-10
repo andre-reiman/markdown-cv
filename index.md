@@ -1,31 +1,31 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: André Reiman's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# André Reiman
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
+<a href="reiman.andre@gmail.com">reiman.andre@gmail.com</a>
 | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
 </div>
 
 
-## Currently
+## Tidigare arbeten
 
-Standing on the shoulders of giants
+`1654-1660`
+__The King's School, Grantham.__
 
-### Specialized in
+### Kompetenser
 
 Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
 
 
-### Research interests
+### Personliga intressen
 
 Cooling, power series, optics, alchemy, planetary motions, apples.
 
 
-## Education
+## Utbildning
 
 `1654-1660`
 __The King's School, Grantham.__
